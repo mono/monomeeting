@@ -23,7 +23,7 @@
 	updates on the actual venue and dates. 
 
 <a name="talks"/>
-<h1>Talks</h1>
+<h1>Talks and Topics</h1>
 
 	<p>We will organize talks on various areas of Mono by the
 	maintainers and contributors to those components.
@@ -38,7 +38,9 @@
 	  <li>Gtk# roadmap.
 	</ul>
 
-	<p>The plan is to discuss a number of topics and lingering topics:
+	<p>The plan is to have an open discussion with all the
+	contributors to the Mono project and its users about a number
+	of topics and lingering topics:
 
 	<ul>
 	   <li>Increasing the number of contributors.
@@ -50,8 +52,7 @@
 	
 	<p>If you have a suggestion for a talk on Mono or a
 	Mono-related technology, please email
-	<a href="mailto:mono@novell.com?subject=Mono talk
-	suggestion">mono@novell.com</a>. 
+	<a href="mailto:mono@novell.com?subject=Mono%20talk%20 suggestion">mono@novell.com</a>. 
 	  
 <h1>Attendance</h1>
 
@@ -71,8 +72,7 @@
 
 	<p>If you have contacts at a University that might be
 	interested in hosting the event, please send us an email
-	<a href="mailto:mono@novell.com?subject=Mono Meeting
-	Venue">mono@novell.com</a> 
+	<a href="mailto:mono@novell.com?subject=Mono%20Meeting%20Venue">mono@novell.com</a> 
 	   
 
 </div>
