@@ -1,0 +1,86 @@
+#globalWrapper {
+    background: #fff url(mono-bg.png) no-repeat top left;
+    border-top: 1px solid #eaf8d1;
+}
+html>body #globalWrapper {
+    border: 0;
+}
+#p-nav {
+    position: absolute;
+    top: 28px;
+    left: 10%;
+    font-size: 12pt;
+    font-family: vag rounded, vag round, arial mt rounded, arial rounded, verdana, bitstream vera sans, lucida sans, sans-serif;
+}
+#p-logo {
+    /* Wiki logo (replace with graphic via CSS) */
+    position: absolute;
+    top: 10px;
+    left: 26px;
+    background: transparent url(mono-logo.png) no-repeat center;
+    /* IE stuff */
+    _background:none;
+}
+#p-logo a {
+    /* Wiki logo, part 2 */
+    display: block;
+    width: 93px;
+    height: 112px;
+    /* IE stuff, part 2 */
+    _cursor: pointer;
+    _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/skins/monoproject/images/mono-logo.png', sizingMethod='crop');
+}
+#column-content {
+    /* Content wrapper */
+    padding: 160px 0 0 12em;
+    width: 400pt;
+}
+
+#menu {
+    position: absolute;
+    top: 170px;
+    left: 0pt;
+}
+
+#menu ul {
+   list-style: none;
+   display: inline;
+   display: block;	
+}
+
+#menu li {
+    display: inline;
+    display: block;
+    margin: 0; padding: 5px;
+    margin: 5px;
+    list-style: none;
+ }
+
+#menu li a {
+   text-decoration: none;
+    padding: 0.5em;
+}
+
+#menu li a:hover {
+    color: #fff;
+    background-color: #5a7ac7;
+}
+
+#content {
+    /* Content area */
+}
+
+input, textarea  {
+      border-width: 1px;
+      border-style: solid;
+      border-color: black;
+      padding: 3 3 3 3;
+      margin-top: 5px;
+}
+
+errorst {
+      padding: 3 3 3 3;
+      margin-top: 5px;
+}
+
+
