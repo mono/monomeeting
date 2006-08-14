@@ -29,7 +29,9 @@ bool DbValidate (string s)
 
 	<div id="error" visible="false" runat="server">
 
-	You have entered an invalid registration.  If you have
+	You have entered an invalid registration.  
+
+	<p>If you have
 	problems with your registration contact <a
 	href="mailto:monomeeting@gmail.com">monomeeting@gmail.com</a>
 
