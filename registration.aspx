@@ -8,14 +8,9 @@ void Page_Load ()
 	}
 	Page.Validate ();
 
-	string token = InsertRegister (name.Text, email.Text, country.Text, comments.Text);	
+	string token = InsertData (name.Text, email.Text, country.Text, comments.Text);	
 	mail (email.Text, token);
 	Response.Redirect ("thanks.aspx");
-}
-
-string InsertRegister (string name, string email, string country, string comments)
-{
-	return "token";
 }
 
 static void mail (string recipient, string token)

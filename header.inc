@@ -1,4 +1,4 @@
-<%@ Page Language="C#" %>
+<%@ Page Language="C#" Src="base.cs" Inherits="Meeting.MyBase" %>
 <%@ Import Namespace="System.Web" %>
 <%@ Import Namespace="System.Web.Mail" %>
 <html>

@@ -4,12 +4,12 @@
 void Page_Load ()
 {
 	try {
-		if (DbValidate (Request.QueryString ["token"])){
-		   ok.Visible = true;
-		} else 
-	   	   error.Visible = true;
-        } catch {
-	  error.Visible = true;
+		ValidateToken (Request.QueryString ["token"]);
+		ok.Visible = true;
+        } catch (Exception e) {
+	        debug.InnerText = e.ToString ();
+	  	// Exception if the token does not decrypt properly
+		error.Visible = true;
 	}
 }
 
@@ -37,6 +37,7 @@ bool DbValidate (string s)
 
 	</div>
 
+	<div id="debug" style="display: none;" runat="server"/>
 </form>
 </div>
 </body>
