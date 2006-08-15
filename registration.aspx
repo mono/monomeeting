@@ -22,7 +22,7 @@ static void mail (string recipient, string token)
      m.Body = String.Format ("\n\nHello,\n\n" +
 "To complete your registration for the Mono Meeting 2006, please go to the\n" +
 "following address\n\n\thttp://www.go-mono.com/meeting/confirm.aspx?token={0}\n\n" +
-"To find more about the Mono Meeting, visit:\n\n\thttp://www.go-mono.com/meeting\n\n" + 
+"To find more about the Mono Meeting, visit:\n\n\thttp://www.go-mono.com/meeting/\n\n" + 
 "The Mono Team (mono@novell.com)", token);
 
 SmtpMail.SmtpServer = "localhost";
@@ -36,7 +36,8 @@ SmtpMail.Send (m);
 	<h2>Mono Meeting Registration</h2>
 
 	<p>Please enter the following information to register for the
-	Mono Meeting, the information obtained here will not be used for marketing purposes.
+	Mono Meeting, the information obtained here will not be used
+	for marketing purposes and will not be published.
 
 
 	<p>Name:<br>

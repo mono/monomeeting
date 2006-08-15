@@ -29,7 +29,7 @@ namespace Meeting {
 				}
 			}
 				
-			IDbConnection cnc = new MySqlConnection("Server=localhost; database=meeting;user id=miguel; Password=miguel;");
+			IDbConnection cnc = new MySqlConnection(constr);
 			cnc.Open ();
 			return cnc;
 		}
