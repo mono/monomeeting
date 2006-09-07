@@ -39,6 +39,8 @@ SmtpMail.Send (m);
 	Mono Meeting, the information obtained here will not be used
 	for marketing purposes and will not be published.
 
+	<p>Attendance to the meeting is free, but we need to evaluate
+	how many people will attend to get the proper venue.
 
 	<p>Name:<br>
 	<asp:TextBox id="name" columns="50" runat="server" maxLength="100" />
