@@ -43,14 +43,15 @@ SmtpMail.Send (m);
 	how many people will attend to get the proper venue.
 
 	<p>Name:<br>
-	<asp:TextBox id="name" columns="50" runat="server" maxLength="100" />
+	<asp:TextBox id="name" columns="50" runat="server" maxLength="100" /><br/>
 	<asp:RequiredFieldValidator runat="server" class="errorst" ControlToValidate="name" ErrorMessage="Please enter your name."/>
 
 	<p>Email:<br>
-	<asp:TextBox id="email" columns="50" runat="server" maxLength="100"/>
+	<asp:TextBox id="email" columns="50" runat="server" maxLength="100"/><br/>
+	<asp:RequiredFieldValidator runat="server" class="errorst" ControlToValidate="email" ErrorMessage="Please enter an email address."/>
 	<asp:RegularExpressionValidator runat="server" ControlToValidate="email"
 	     ValidationExpression="[\w\.\-]+@[a-zA-Z0-9\-]+(\.[a-zA-Z0-9\-]+)*(\.[a-zA-Z]{2,3}){1,2}"
-	          ErrorMessage="Please enter your email address."/>
+	          ErrorMessage="Please enter a valid email address."/>
 
 	<p>Country:<br>
 	<asp:TextBox id="country" columns="50" runat="server" maxLength="100"/>
