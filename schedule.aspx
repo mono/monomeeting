@@ -4,6 +4,8 @@
 
    <p>The Mono Meeting 2006 Schedule.  
 
+   <p><b>Important: a couple of talks are still subject to change or shifting.</b>
+
    <table border=1 cellpadding=10>
      <tr>
        <td></td><td>Monday</td><td>Tuesday</td>
