@@ -68,7 +68,8 @@
      <tr>
        <td align="right">14:00</td>
 	<td><b>Olive Project</b><br>Atsushi Enomoto<br><i>Novell</i></td>
-	<td><b>Crimson Project</b><br>Sebastien Pouliot<br><i>Novell</i></td>
+	<td><b>Security and Cryptography: CAS, Crimson Project,
+	Gendarme, Monoxide</b><br>Sebastien Pouliot<br><i>Novell</i></td>
      </tr>
 
      <tr>
@@ -94,7 +95,7 @@
      </tr>
      <tr>
        <td align="right">16:20</td>
-	<td><b>Mono Performance</b><br>Massimiliano Mantione<br><i>Novell</i></td>
+	<td><b>Mono JIT Performance</b><br>Massimiliano Mantione<br><i>Novell</i></td>
 	<td><b>Meeting Wrap Up</b></td>
      </tr>
 
