@@ -23,6 +23,8 @@
 	at the Novell offices for joint development sessions after the
 	24th.
 
+	<p><b>Sessions start at 9am</b>
+
 <a name="talks"/>
 <h1>Talks and Topics</h1>
 
@@ -43,8 +45,15 @@
 	  <li>Sandboxing discussion (Sebastien Pouliot, Novell).
 	  <li>State of 2.0 API support.
 	  <li>Compacting Garbage Collector (Paolo Molaro, Novell).
+	</ul>
+
+        <p><b>Libraries</b>
+
+	<ul>
 	  <li><a href="http://www.mono-project.com/GtkSharp">Gtk#</a>, roadmap, applications, plans (Mike Kestner, Novell).
 	  <li><a href="http://www.mono-project.com/WinForms">Windows.Forms</a> development and plans (Chris Toshok, Novell). 
+	  <li><a href="http://www.mono-project.com/Cecil">Cecil</a>, the ECMA CIL manipulation library and associated tools (JB Evain, db4Objects).
+	  <li><a href="http://www.db4o.com">db4o</a>, object oriented database (JB Evain, db4Objects).
 	</ul>
 
 	<p><b>Applications</b>
@@ -53,12 +62,14 @@
 	  <li>Debugging in Mono (Martin Baulig, Novell). 
 	  <li>MonoDevelop IDE and Stetic GUI designer (Lluis Sánchez, Novell). 
 	  <li><a href="http://f-spot.org/Main_Page">F-Spot</a> (Larry Ewing, Novell).
+	  <li><a href="http://www.opengarden.org/dekiwiki">DekiWiki and the Dream Framework</a> (Steve Bjorg, MindTouch).
+	  <li>Using NUnit with Mono (Charlie Poole).
 	</ul>
 
 	<p><b>Plans and Future</b>
 	<ul>
 	  <li>Crimson Project (Sebastien Pouliot, Novell).
-	  <li>Olive and Olive+ Projects (Atsushi Enomoto, Novell).
+	  <li>Olive and Olive+ Projects (.NET 3.0) (Novell).
 	  <li>Visual Studio integration.
 	</ul>
 
@@ -68,6 +79,7 @@
 	of topics and lingering topics:
 
 	<ul>
+	   <li>Mono on Windows BOF discussion.
 	   <li>Increasing the number of contributors.
 	   <li>Documentation efforts.
 	   <li>Internationalizing Mono.
@@ -90,8 +102,8 @@
 <h1>Location</h1>
 
 	<p>The Mono Meeting will be held in <a
-	href="http://marriott.com/property/propertypage/BOSCB">Marriot
-	Hotel in Kendall Square</a>, Cambridge, MA in the US.
+	href="http://www.royalsonestaboston.com/">Royal Sonesta
+	Hotel</a>, Cambridge, MA in the US.
 
 	<p>For travel tips, see the <a
 	href="http://mono.wiki.com/2006_Mono-Meeting/Traveling_to_Boston">Traveling
