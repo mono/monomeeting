@@ -6,7 +6,8 @@
 
    <p><b>Important: a couple of talks are still subject to change or shifting.</b>
 
-   <table border=1 cellpadding=10>
+   <center>
+   <table border=1 cellpadding=10 class="schedule">
      <tr>
        <td></td><td>Monday</td><td>Tuesday</td>
      </tr>
@@ -103,4 +104,5 @@
      </tr>
 
    </table>
+   </center>
 </div>

@@ -83,4 +83,10 @@ errorst {
       margin-top: 5px;
 }
 
+table.schedule {
+	border-style: none none none none;
+}
 
+table.schedule td {
+	border-style: solid solid solid solid;
+}
