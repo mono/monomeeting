@@ -20,7 +20,7 @@
 <div id="menu">
   <ul>
     <li><a href="index.aspx">Main Page</a>
-    <li><a href="index.aspx#talks">Talks</a>
+    <li><a href="schedule.aspx">Talks/Schedule</a>
     <li><a href="registration.aspx">Registration</a>
     <li><a href="index.aspx#location">Location</a>
     <li><a href="http://mono.wiki.com/2006MonoMeeting">Event Wiki</a> 
