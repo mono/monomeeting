@@ -19,7 +19,7 @@
      <tr>
        <td align="right">9:00</td>	
 	<td rowspan=2 valign=top><b>Mono Project Update and Roadmap</b><br>Miguel de Icaza<br><i>Novell</i></td>
-	<td><b>db4Objects</b><br>JB Evain<br><i>db4Objects</i></td>
+	<td><b><a href="http://www.db4o.com">db4o</a></b><br>Jb Evain<br><i>db4objects</i></td>
      </tr>
 
      <tr>
@@ -43,7 +43,7 @@
      <tr>
        <td align="right">11:20</td>
 	<td valign=top>
-	  <b><a href="http://www.mono-project.com/Cecil">Cecil</a></b><br>JB Evain<br><i>db4Objects</i>
+	  <b><a href="http://www.mono-project.com/Cecil">Cecil</a></b><br>Jb Evain<br><i>db4objects</i>
 	</td> 
 	<td valign=top>
 	  <b>Windows.Forms in Mono</b><br>Chris Toshok<br><i>Novell</i>
