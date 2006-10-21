@@ -24,7 +24,7 @@
 
      <tr>
        <td align="right">9:40</td>	
-       <td><b><a href="http://nunit.com">NUnit</a> and Mono</b><br>Charlie Poole<br><i>NUnit.com</i><td>
+	<td><b><a href="http://www.opengarden.org/dekiwiki">DekiWiki</a> and the Dream Framework</b><br>Steve Bjorg<br><i><a href="http://www.mindtouch.com">MindTouch</a></i></td>
      </tr>
 
      <tr>
@@ -37,7 +37,7 @@
 	<td valign=top>
 	  <b><a href="http://f-spot.org">F-Spot</a></b><br>Larry Ewing<br><i>Novell</i>
 	</td>
-	<td><b><a href="http://www.opengarden.org/dekiwiki">DekiWiki</a> and the Dream Framework</b><br>Steve Bjorg<br><i><a href="http://www.mindtouch.com">MindTouch</a></i></td>
+       <td><b><a href="http://nunit.com">NUnit</a> and Mono</b><br>Charlie Poole<br><i>NUnit.com</i><td>
      </tr>
 
      <tr>
